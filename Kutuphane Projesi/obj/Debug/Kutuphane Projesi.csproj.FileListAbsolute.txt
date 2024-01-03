@@ -1,0 +1,14 @@
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\bin\Debug\Kutuphane Projesi.exe.config
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\bin\Debug\Kutuphane Projesi.exe
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\bin\Debug\Kutuphane Projesi.pdb
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane Projesi.csproj.AssemblyReference.cache
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.Form1.resources
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.formOgrenci.resources
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.Properties.Resources.resources
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane Projesi.csproj.GenerateResource.cache
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane Projesi.exe
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane Projesi.pdb
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.formTur.resources
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.formOduncKitap.resources
+C:\Users\cinar\Documents\2023-2024\windows-form-app\Kutuphane Projesi\Kutuphane Projesi\obj\Debug\Kutuphane_Projesi.formKitap.resources
